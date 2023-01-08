@@ -9,6 +9,8 @@ Link to the website: [https://binary-tree-lk.netlify.app/]
 Link to the website: [https://binary-tree.onrender.com]
 
 
+## App
+
 An app to visualize a Binary Tree and find the BFS from any Node.
 
 Add nodes to check the Binary Tree. Enter the node to find the BFS.
@@ -16,9 +18,9 @@ Add nodes to check the Binary Tree. Enter the node to find the BFS.
 That simple!
 
 
-Note:
+### Note:
 
-Check the API branch to see the routing, mongoose schema and the algorithm used to find the BFS.
+Check the main branch to see the ReactJS file.
 
 
 #### For Deployment, 
