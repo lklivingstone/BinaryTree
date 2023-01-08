@@ -1,0 +1,21 @@
+.BinaryTree {
+    margin: 0;
+    display: flex;   
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    width: 100vw;
+    color: white;
+  }
+  
+.each-column {
+    width: 100vw;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.single-element {
+    flex: 1;
+}
